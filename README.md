@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Проект: React приложение (без Back-end)
+
+### Разработка ведётся на TypeScript с использованием Redux в качестве state managment
+
+### Готовый проект можно посмотреть по этой ссылке:
+![React](https://img.shields.io/badge/React-000??style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/TypeScript-000??style=for-the-badge&logo=TypeScript)
+![Redux](https://img.shields.io/badge/Redux-000??style=for-the-badge&logo=Redux)
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -43,4 +53,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://reactjs.org/). -->
